@@ -24,7 +24,7 @@ A Linux-based operating system that transforms your computer into a fully functi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pokedexos.git
+git clone https://github.com/IchoTM/PokeOS
 cd pokedexos
 ```
 
